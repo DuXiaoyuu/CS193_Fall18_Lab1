@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # DuXiao's first CS193 Lab
 
-- Bulleted
-- List
 
 - Labs are cool
 - TAs are cool
